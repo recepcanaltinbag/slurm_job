@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH -p palamut-cuda
+#SBATCH -p akya-cuda
 #SBATCH -A raltinbag
 #SBATCH -J evo_run
 #SBATCH -o output.out
