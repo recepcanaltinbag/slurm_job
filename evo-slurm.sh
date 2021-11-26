@@ -5,4 +5,4 @@
 #SBATCH -o output.out
 #SBATCH --time=0:01:00
 
-singularity run evobio_v1.sif 
+./evobio
